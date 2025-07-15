@@ -36,6 +36,4 @@ Ideal for:
 - Restaurant owners assessing competitive benchmarks
 - Product managers in food delivery platforms seeking operational insights
 
-## 📬 Contact
-For feedback or collaboration, reach out to `your-email@example.com`.
 
